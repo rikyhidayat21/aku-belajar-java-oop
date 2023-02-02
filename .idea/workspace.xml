@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="786fceab-15e8-4ebf-9ed4-14cd655bbecf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/riky/collections/IterableApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/riky/collections/CollectionApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IterableApp">
+  <component name="RunManager" selected="Application.CollectionApp">
+    <configuration name="CollectionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.riky.collections.CollectionApp" />
+      <module name="aku-belajar-java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.riky.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Greeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.riky.packages.a.Greeting" />
       <module name="aku-belajar-java-oop" />
@@ -67,19 +81,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.riky.collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.riky.introduction.Main" />
-      <module name="aku-belajar-java-oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.riky.introduction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionApp" />
         <item itemvalue="Application.IterableApp" />
         <item itemvalue="Application.com.riky.singleton.Main" />
         <item itemvalue="Application.com.riky.staticExample.Main" />
         <item itemvalue="Application.Greeting" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +141,7 @@
       <workItem from="1675207241753" duration="2339000" />
       <workItem from="1675292002053" duration="2271000" />
       <workItem from="1675305908763" duration="2986000" />
-      <workItem from="1675334799269" duration="2172000" />
+      <workItem from="1675334799269" duration="3352000" />
     </task>
     <servers />
   </component>
