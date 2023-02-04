@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="786fceab-15e8-4ebf-9ed4-14cd655bbecf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/riky/collections/CollectionApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/riky/pzn/collections/CollectionApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/riky/collections/EnumSetApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/riky/pzn/collections/EnumSetApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/riky/collections/ImmutableApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/riky/pzn/collections/ImmutableApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/riky/collections/ImmutableSetApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/riky/pzn/collections/ImmutableSetApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/riky/collections/IterableApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/riky/pzn/collections/IterableApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/riky/collections/ListApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/riky/pzn/collections/ListApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/riky/collections/MutableApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/riky/pzn/collections/MutableApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/riky/collections/SetApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/riky/pzn/collections/SetApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/riky/collections/SortedSetApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/riky/pzn/collections/SortedSetApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/riky/collections/data/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/riky/pzn/collections/data/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/riky/collections/data/PersonComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/riky/pzn/collections/data/PersonComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/riky/pzn/collections/NavigableSetApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +48,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SortedSetApp">
+  <component name="RunManager" selected="Application.NavigableSetApp">
     <configuration name="EnumSetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.riky.pzn.collections.EnumSetApp" />
       <module name="aku-belajar-java-oop" />
@@ -71,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImmutableApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.riky.pzn.collections.ImmutableApp" />
+    <configuration name="ImmutableSetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.riky.pzn.collections.ImmutableSetApp" />
       <module name="aku-belajar-java-oop" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImmutableSetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.riky.pzn.collections.ImmutableSetApp" />
+    <configuration name="NavigableSetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.riky.pzn.collections.NavigableSetApp" />
       <module name="aku-belajar-java-oop" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NavigableSetApp" />
         <item itemvalue="Application.SortedSetApp" />
         <item itemvalue="Application.ImmutableSetApp" />
         <item itemvalue="Application.EnumSetApp" />
         <item itemvalue="Application.SetApp" />
-        <item itemvalue="Application.ImmutableApp" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +146,7 @@
       <workItem from="1675389592201" duration="754000" />
       <workItem from="1675391235567" duration="3293000" />
       <workItem from="1675396267682" duration="1237000" />
-      <workItem from="1675421816753" duration="2816000" />
+      <workItem from="1675421816753" duration="4197000" />
     </task>
     <servers />
   </component>
