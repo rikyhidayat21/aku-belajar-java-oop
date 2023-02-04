@@ -1,7 +1,7 @@
-package com.riky.collections;
+package com.riky.pzn.collections;
 
-import com.riky.collections.data.Person;
-import com.riky.collections.data.PersonComparator;
+import com.riky.pzn.collections.data.Person;
+import com.riky.pzn.collections.data.PersonComparator;
 
 import java.util.SortedSet;
 import java.util.TreeSet;

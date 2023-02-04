@@ -1,6 +1,6 @@
-package com.riky.collections;
+package com.riky.pzn.collections;
 
-import com.riky.collections.data.Person;
+import com.riky.pzn.collections.data.Person;
 
 import java.util.List;
 

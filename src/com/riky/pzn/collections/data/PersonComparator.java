@@ -1,4 +1,4 @@
-package com.riky.collections.data;
+package com.riky.pzn.collections.data;
 
 import java.util.Comparator;
 

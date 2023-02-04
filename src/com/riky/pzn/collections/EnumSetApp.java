@@ -1,4 +1,4 @@
-package com.riky.collections;
+package com.riky.pzn.collections;
 
 import java.util.EnumSet;
 

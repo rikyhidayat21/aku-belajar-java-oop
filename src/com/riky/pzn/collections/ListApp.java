@@ -1,7 +1,6 @@
-package com.riky.collections;
+package com.riky.pzn.collections;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 
 public class ListApp {

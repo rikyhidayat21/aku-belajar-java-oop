@@ -1,6 +1,5 @@
-package com.riky.collections;
+package com.riky.pzn.collections;
 
-import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
