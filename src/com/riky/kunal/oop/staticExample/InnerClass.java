@@ -1,6 +1,4 @@
-package com.riky.staticExample;
-
-import java.util.Arrays;
+package com.riky.kunal.oop.staticExample;
 
 public class InnerClass {
     static class Test {

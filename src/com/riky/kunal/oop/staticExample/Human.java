@@ -1,4 +1,4 @@
-package com.riky.staticExample;
+package com.riky.kunal.oop.staticExample;
 
 public class Human {
     int age;

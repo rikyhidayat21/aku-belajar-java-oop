@@ -1,4 +1,4 @@
-package com.riky.singleton;
+package com.riky.kunal.oop.singleton;
 
 public class Singleton {
     public Singleton() {

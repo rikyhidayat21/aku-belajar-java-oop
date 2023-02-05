@@ -1,4 +1,4 @@
-package com.riky.packages.b;
+package com.riky.kunal.oop.packages.b;
 
 public class Message {
     public static void main(String[] args) {
