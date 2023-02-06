@@ -11,13 +11,13 @@ public class PersonApp {
         person1.sayHello("Dadang");
 
         // cara lain inisiate object
-        Person person2 = new Person("Memet", "Paten");
-//        System.out.println(person2.name);
+        Person person2 = new Person("Memet");
+        person2.sayHello("Mk");
 
         // cara lain inisiate object
         Person person3;
-        person3 = new Person("Amamiya", "Brothers");
-
-//        System.out.println(person3.name);
+        person3 = new Person();
+        person3.name = "Rx";
+        person3.sayHello("Ical");
     }
 }
