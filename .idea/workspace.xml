@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="786fceab-15e8-4ebf-9ed4-14cd655bbecf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/riky/pzn/map/EnumHashMapApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/riky/pzn/map/HashMapApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/riky/pzn/map/IdentityHashMapApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/riky/pzn/map/LinkedHashMapApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/riky/pzn/map/WeakHashMapApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="786fceab-15e8-4ebf-9ed4-14cd655bbecf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +45,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EnumHashMapApp">
+  <component name="RunManager" selected="Application.ImmutableMapApp">
     <configuration name="EnumHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.riky.pzn.map.EnumHashMapApp" />
       <module name="aku-belajar-java-oop" />
@@ -66,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.riky.pzn.map.HashMapApp" />
+    <configuration name="IdentityHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.riky.pzn.map.IdentityHashMapApp" />
       <module name="aku-belajar-java-oop" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IdentityHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.riky.pzn.map.IdentityHashMapApp" />
+    <configuration name="ImmutableMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.riky.pzn.map.ImmutableMapApp" />
       <module name="aku-belajar-java-oop" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImmutableMapApp" />
         <item itemvalue="Application.EnumHashMapApp" />
         <item itemvalue="Application.LinkedHashMapApp" />
         <item itemvalue="Application.IdentityHashMapApp" />
         <item itemvalue="Application.WeakHashMapApp" />
-        <item itemvalue="Application.HashMapApp" />
       </list>
     </recent_temporary>
   </component>
