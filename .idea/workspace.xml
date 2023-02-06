@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="786fceab-15e8-4ebf-9ed4-14cd655bbecf" name="Changes" comment="" />
+    <list default="true" id="786fceab-15e8-4ebf-9ed4-14cd655bbecf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/riky/pzn/oop/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/riky/pzn/oop/PersonApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +49,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ImmutableMapApp">
+  <component name="RunManager" selected="Application.PersonApp">
     <configuration name="EnumHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.riky.pzn.map.EnumHashMapApp" />
       <module name="aku-belajar-java-oop" />
@@ -98,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeakHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.riky.pzn.map.WeakHashMapApp" />
+    <configuration name="PersonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.riky.pzn.oop.PersonApp" />
       <module name="aku-belajar-java-oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.riky.pzn.map.*" />
+          <option name="PATTERN" value="com.riky.pzn.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonApp" />
         <item itemvalue="Application.ImmutableMapApp" />
         <item itemvalue="Application.EnumHashMapApp" />
         <item itemvalue="Application.LinkedHashMapApp" />
         <item itemvalue="Application.IdentityHashMapApp" />
-        <item itemvalue="Application.WeakHashMapApp" />
       </list>
     </recent_temporary>
   </component>
@@ -144,6 +148,8 @@
       <workItem from="1675391235567" duration="3293000" />
       <workItem from="1675396267682" duration="1237000" />
       <workItem from="1675421816753" duration="7852000" />
+      <workItem from="1675665567650" duration="377000" />
+      <workItem from="1675667955729" duration="2494000" />
     </task>
     <servers />
   </component>
