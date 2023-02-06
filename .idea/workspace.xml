@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="786fceab-15e8-4ebf-9ed4-14cd655bbecf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/riky/pzn/oop/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/riky/pzn/oop/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/riky/pzn/oop/ManageApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/riky/pzn/oop/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/riky/pzn/oop/VicePresident.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,22 +49,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PersonApp">
+  <component name="RunManager" selected="Application.ManageApp">
     <configuration name="EnumHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.riky.pzn.map.EnumHashMapApp" />
-      <module name="aku-belajar-java-oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.riky.pzn.map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IdentityHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.riky.pzn.map.IdentityHashMapApp" />
       <module name="aku-belajar-java-oop" />
       <extension name="coverage">
         <pattern>
@@ -100,6 +89,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ManageApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.riky.pzn.oop.ManageApp" />
+      <module name="aku-belajar-java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.riky.pzn.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PersonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.riky.pzn.oop.PersonApp" />
       <module name="aku-belajar-java-oop" />
@@ -115,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ManageApp" />
         <item itemvalue="Application.PersonApp" />
         <item itemvalue="Application.ImmutableMapApp" />
         <item itemvalue="Application.EnumHashMapApp" />
         <item itemvalue="Application.LinkedHashMapApp" />
-        <item itemvalue="Application.IdentityHashMapApp" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +149,7 @@
       <workItem from="1675396267682" duration="1237000" />
       <workItem from="1675421816753" duration="7852000" />
       <workItem from="1675665567650" duration="377000" />
-      <workItem from="1675667955729" duration="4999000" />
+      <workItem from="1675667955729" duration="5488000" />
     </task>
     <servers />
   </component>
