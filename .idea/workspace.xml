@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="786fceab-15e8-4ebf-9ed4-14cd655bbecf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/riky/pzn/oop/ManageApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/riky/pzn/oop/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/riky/pzn/oop/VicePresident.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/riky/kunal/oop/properties/inheritence/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/riky/kunal/oop/properties/inheritence/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ManageApp">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="EnumHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.riky.pzn.map.EnumHashMapApp" />
       <module name="aku-belajar-java-oop" />
@@ -76,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.riky.pzn.map.LinkedHashMapApp" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.riky.kunal.oop.properties.inheritence.Main" />
       <module name="aku-belajar-java-oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.riky.pzn.map.*" />
+          <option name="PATTERN" value="com.riky.kunal.oop.properties.inheritence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ManageApp" />
         <item itemvalue="Application.PersonApp" />
         <item itemvalue="Application.ImmutableMapApp" />
         <item itemvalue="Application.EnumHashMapApp" />
-        <item itemvalue="Application.LinkedHashMapApp" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +148,7 @@
       <workItem from="1675396267682" duration="1237000" />
       <workItem from="1675421816753" duration="7852000" />
       <workItem from="1675665567650" duration="377000" />
-      <workItem from="1675667955729" duration="5488000" />
+      <workItem from="1675667955729" duration="6538000" />
     </task>
     <servers />
   </component>
